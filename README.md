@@ -1,1 +1,1 @@
-bash -c "$(wget -qLO - https://github.com/tmmjelde/proxcloud/nextcloudpi.sh)"
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/tmmjelde/proxcloud/refs/heads/main/nextcloudpi.sh)"
